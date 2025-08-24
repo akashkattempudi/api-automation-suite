@@ -128,8 +128,5 @@ API Methods: The suite tests various HTTP methods, including GET, POST, PUT, and
 🤝 Contributing
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your proposed changes.
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 📬 Contact
 For inquiries or support, please reach out to akashkattempudi@gmail.com.
